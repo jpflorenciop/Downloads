@@ -12,7 +12,7 @@ def mostrar_menu():
     print("4 - Atualizar reclamação")
     print("5 - Remover reclamação")
     print("6 - Quantidade de reclamações")
-    print("7 - Sairpp")
+    print("7 - Sairppf")
 
 
 def registrar_reclamacao(conexao):
